@@ -1,0 +1,8 @@
+{
+  "name": "quirky-wisdom-data",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-quotes.js"
+  }
+}
