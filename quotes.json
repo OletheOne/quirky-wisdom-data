@@ -1,7 +1,16 @@
 {
-  "version": "1",
-  "updated_at": "1970-01-01T00:00:00.000Z",
-  "serious": ["Seed: Constraints are the artist’s secret superpower."],
-  "funny": ["Seed: A meeting is an email that wanted to feel important."],
-  "custom": []
+  "serious": [
+    "Simplicity is a feature you ship every day.",
+    "You learn faster when you teach sooner.",
+    "Direction beats speed when the map is wrong.",
+    "Constraints are the artist’s secret superpower."
+  ],
+  "funny": [
+    "A meeting is an email that wanted to feel important.",
+    "If at first you don’t succeed, rename it v2-final-FINAL.",
+    "Sleep is a power-up, not a pause.",
+    "Keyboard shortcuts are spells. Learn the incantations."
+  ],
+  "updated_at": "2025-08-16T03:04:10.195Z",
+  "source": "GitHub Actions auto-build"
 }
